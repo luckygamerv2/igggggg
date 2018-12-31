@@ -1,3 +1,0 @@
-node Dreamx.js
-
-pause
